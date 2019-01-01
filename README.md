@@ -2,10 +2,8 @@
 ## bridget.murphy@colorado.edu
 ## 805 490 5063
 ## Education
----
 Bachelor of Arts and Sciences in Computer Science, University of Colorado, Boulder, CO, Spring 2019
 ## Experience
----
 **Research Assistant**, University of Colorado Boulder, Boulder, Colorado, 2018-present
 
 - Worked in Swift to create an iOS application which reads accelerometer data from a BBC micro:bit
@@ -22,7 +20,6 @@ Bachelor of Arts and Sciences in Computer Science, University of Colorado, Bould
 - Sharpened skates for both hockey and figure skaters to improve their performance during competition
 
 ## Projects
----
 **Scrum Master Love Dating Site, 2018**
 - Created with a group of four classmates with the goal of matching scrum masters with similar interests
 
@@ -42,7 +39,6 @@ Bachelor of Arts and Sciences in Computer Science, University of Colorado, Bould
 - https://github.com/LaboratoryForPlayfulComputation/AlpacaML
 
 ## Skills
----
 ### Proficient
 - Python
 - C++
@@ -55,7 +51,6 @@ Bachelor of Arts and Sciences in Computer Science, University of Colorado, Bould
 - Swift 
 - NodeJS
 ## Community Involvement
----
 **University of Colorado Women's Hockey Team, 2014-present**
 
 **South Boulder Little League, 2014-present**

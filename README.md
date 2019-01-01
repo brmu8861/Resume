@@ -46,7 +46,7 @@ Bachelor of Arts and Sciences in Computer Science, University of Colorado, Bould
 
 ### Familiar
 - Javascript
--HTML/CSS
+- HTML/CSS
 - Unix Command Line
 - Swift 
 - NodeJS

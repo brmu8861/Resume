@@ -55,17 +55,20 @@ Bachelor of Arts and Sciences in Computer Science, University of Colorado, Bould
 
 ## Skills
 ### Proficient
-- Python
+- Python [Numpy and Scipy]
 - C++
 - SQL
 
 ### Familiar
 - Javascript
+- Java
+- Scala
 - HTML/CSS
+- JSON
 - Unix Command Line
 - Swift 
 - NodeJS
 ## Community Involvement
-**University of Colorado Women's Hockey Team, 2014-present**
+**University of Colorado Women's Hockey Team, 2014-2019**
 
-**South Boulder Little League, 2014-present**
+**South Boulder Little League, 2014-2019**
